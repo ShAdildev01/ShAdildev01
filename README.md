@@ -5,7 +5,7 @@
   <p>Hi, I'm Shafieullah Adil 💻 I'm a Front-End Developer.</p>
 </div>
 <h3>Experience</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github" alt="lan" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" alt="lan" />
 <h3>Connect with Me</h3>
 <p align="left">
   <a href="https://t.me/idmradil">
@@ -25,7 +25,10 @@
 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E). ! ![React](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ShAdildev01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ShAdildev01&theme=dark&hide_border=false)<br/>

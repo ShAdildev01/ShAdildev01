@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./bggit.png" alt="MR ADiL LOGO" width="300px" />
+  <img src="./mradilbggit.png" alt="MR ADiL LOGO" width="250px" />
   <h1 color="red"><ins>MR ADiL</ind></h1>
   <hr>
   <p>Hi, I'm Shafieullah Adil 💻 I'm a Front-End Developer.</p>

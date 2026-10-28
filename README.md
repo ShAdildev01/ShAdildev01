@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./logogit.jpg" alt="imag" width="250px" />
-  <h1><a>MR ADiL</a></h1>
+  <h1 color="red"><ins>MR ADiL</ind></h1>
   <hr>
   <p>Hi, I'm Shafieullah Adil 💻 I'm a Front-End Developer.</p>
 </div>
